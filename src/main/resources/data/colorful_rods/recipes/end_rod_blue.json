@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "///",
+    "/#/",
+    "///"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_dye"
+    },
+    "/": {
+      "tag": "forge:primary_glow_rods"
+    }
+  },
+  "result": {
+    "item": "colorful_rods:end_rod_blue",
+    "count": 8
+  }
+}

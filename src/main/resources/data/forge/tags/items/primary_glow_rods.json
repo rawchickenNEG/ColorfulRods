@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_rod",
+    "colorful_rods:abyss_rod",
+    "colorful_rods:cave_rod",
+    "colorful_rods:nether_rod"
+  ]
+}

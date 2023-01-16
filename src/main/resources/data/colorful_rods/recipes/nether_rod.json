@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:nether_brick"
+    },
+    "/": {
+      "item": "colorful_rods:glow_tube_dust"
+    }
+  },
+  "result": {
+    "item": "colorful_rods:nether_rod",
+    "count": 4
+  }
+}

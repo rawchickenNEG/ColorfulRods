@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "colorful_rods:block/end_rod_magenta",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "colorful_rods:block/end_rod_magenta",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "colorful_rods:block/end_rod_magenta",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "colorful_rods:block/end_rod_magenta",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "colorful_rods:block/end_rod_magenta"
+    },
+    "facing=west": {
+      "model": "colorful_rods:block/end_rod_magenta",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

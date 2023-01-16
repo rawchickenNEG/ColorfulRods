@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_rod",
+    "colorful_rods:abyss_rod",
+    "colorful_rods:cave_rod",
+    "colorful_rods:end_rod_black",
+    "colorful_rods:end_rod_blue",
+    "colorful_rods:end_rod_brown",
+    "colorful_rods:end_rod_cyab",
+    "colorful_rods:end_rod_gray",
+    "colorful_rods:end_rod_green",
+    "colorful_rods:end_rod_light_blue",
+    "colorful_rods:end_rod_light_gray",
+    "colorful_rods:end_rod_lime",
+    "colorful_rods:end_rod_magenta",
+    "colorful_rods:end_rod_orange",
+    "colorful_rods:end_rod_pink",
+    "colorful_rods:end_rod_purple",
+    "colorful_rods:end_rod_red",
+    "colorful_rods:end_rod_white",
+    "colorful_rods:end_rod_yellow",
+    "colorful_rods:nether_rod"
+  ]
+}

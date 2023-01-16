@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "colorful_rods:item/glow_tube_ink"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "/": {
+      "item": "colorful_rods:glow_tube_ink"
+    }
+  },
+  "result": {
+    "item": "colorful_rods:abyss_rod",
+    "count": 4
+  }
+}

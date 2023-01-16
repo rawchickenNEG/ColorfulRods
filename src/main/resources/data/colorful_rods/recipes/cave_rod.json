@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "/",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:moss_block"
+    },
+    "/": {
+      "item": "colorful_rods:glow_tube_berry"
+    }
+  },
+  "result": {
+    "item": "colorful_rods:cave_rod",
+    "count": 4
+  }
+}
